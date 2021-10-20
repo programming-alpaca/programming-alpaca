@@ -2,6 +2,7 @@
 
 🎓 Education
  - KyungHee University, Department of Software Convergence (2021.03 ~ )
+ - - Web/Python Programming
 
 <!--
 **programming-alpaca/programming-alpaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
 
 🎓 Education
  - KyungHee University, Department of Software Convergence (2021.03 ~ )
-
+#
 ETC...
  - Student Council of Software Convergence
  - HIGH CLEAR (BADMINTON) 🏸

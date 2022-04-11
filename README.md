@@ -4,7 +4,7 @@
  - KyungHee University, Department of Software Convergence (2021.03 ~ )
 #
 ETC...
- - Student Council of Software Convergence
+ - Student Council of Software Convergence (2021.03 ~ 2021.12)
  - HIGH CLEAR (BADMINTON) 🏸
  - LOVICE (TENNIS) 🎾
  - KHUMA (RUNNING) 🎽

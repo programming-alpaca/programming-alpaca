@@ -10,7 +10,7 @@ ETC...
  - KHUMA (RUNNING) 🎽
  - SWTUBE (YOUTUBE...?) 💻
 
-I'm currently learning <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="306" height="344" />
+I'm currently learning
 <!--
 **programming-alpaca/programming-alpaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

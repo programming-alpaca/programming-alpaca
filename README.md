@@ -1,17 +1,19 @@
 ### Hello! I am Yeojoon Hong! (a.k.a Programming Alpaca) 👋
+
+
 #
 🎓 Education
  - KyungHee University, Department of Software Convergence (2021.03 ~ )
 #
 ETC...
  - Student Council of Software Convergence (2021.03 ~ 2021.12)
- - HIGH CLEAR (BADMINTON) 🏸
- - LOVICE (TENNIS) 🎾
  - KHUMA (RUNNING) 🎽
  - SWTUBE (YOUTUBE...?) 💻
 
 I'm currently learning
 <!--
+
+![Alpaca's GitHub stats](https://github-readme-stats.vercel.app/api?username=programming-alpaca&show_icons=true&theme=radical)
 **programming-alpaca/programming-alpaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

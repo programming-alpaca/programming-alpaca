@@ -7,8 +7,10 @@
 #
 ETC...
  - Student Council of Software Convergence (2021.03 ~ 2021.12)
- - KHUMA (RUNNING) 🎽
- - SWTUBE (YOUTUBE...?) 💻
+ - Student Council of Software Convergence (2023.03 ~ 2023.12)
+ - Head of Promotion department SWTUBE (2022)
+ - President of SWTUBE (2023)
+ - Head of Documentation KHLUG (2023.04 ~ )
 
 I'm currently learning
 #
